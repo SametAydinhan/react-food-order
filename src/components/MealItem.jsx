@@ -1,3 +1,5 @@
+import { currencyFormatter } from "../util/formatting.js";
+
 export default function MealItem({ meal }) {
   return (
     <li className='meal-item'>
