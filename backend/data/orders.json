@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "items": [
+      {
+        "id": "m2",
+        "name": "Margherita Pizza",
+        "price": "12.99",
+        "description": "A classic pizza with fresh mozzarella, tomatoes, and basil on a thin and crispy crust.",
+        "image": "images/margherita-pizza.jpg",
+        "quantity": 2
+      }
+    ],
+    "customer": {
+      "name": "samet",
+      "email": "samet.aydinhan879@gmail.com",
+      "street": "denizli",
+      "postal-code": "200",
+      "city": "Denizli"
+    },
+    "id": "550.493631653122"
+  }
+]
